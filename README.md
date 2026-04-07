@@ -48,11 +48,11 @@ cd Food_Manager_ASU
 
 **Шаг 2. Установить зависимости**
 
-bash
+```bash
 pip install flask flask-sqlalchemy
 **Шаг 3. Запустить приложение**
 
-bash
+```bash
 python app.py
 
 **Шаг 4. Открыть в браузере**
