@@ -43,8 +43,7 @@
 
 **Шаг 1. Скачать проект** 
 
-  git clone https://github.com/Andrei7680/Food_Manager_ASU.git
-  cd Food_Manager_ASU```
+  https://github.com/Andrei7680/Food_Manager_ASU.zip
 
 **Шаг 2. Установить зависимости** 
 
@@ -52,11 +51,8 @@
   
 **Шаг 3. Запустить приложение** 
 
-  python app.py
+  app.py
   
 **Шаг 4. Открыть в браузере**
 
-  text
   http://127.0.0.1:5000
-
-
