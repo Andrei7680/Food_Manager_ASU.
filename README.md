@@ -45,15 +45,17 @@
 ```bash
 git clone https://github.com/Andrei7680/Food_Manager_ASU.git
 cd Food_Manager_ASU
-Шаг 2. Установить зависимости
+
+**Шаг 2. Установить зависимости**
 
 bash
 pip install flask flask-sqlalchemy
-Шаг 3. Запустить приложение
+**Шаг 3. Запустить приложение**
 
 bash
 python app.py
-Шаг 4. Открыть в браузере
+
+**Шаг 4. Открыть в браузере**
 
 text
 http://127.0.0.1:5000
