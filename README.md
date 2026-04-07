@@ -41,21 +41,19 @@
 
 ### Пошаговая инструкция
 
-**Шаг 1. Скачать проект**
-```bash
-git clone https://github.com/Andrei7680/Food_Manager_ASU.git
-cd Food_Manager_ASU
+**Шаг 1. Скачать проект** 
 
-**Шаг 2. Установить зависимости**
+  git clone https://github.com/Andrei7680/Food_Manager_ASU.git
+  cd Food_Manager_ASU```
 
-```bash
-pip install flask flask-sqlalchemy
-**Шаг 3. Запустить приложение**
-
-```bash
-python app.py
-
+**Шаг 2. Установить зависимости** 
+  pip install flask flask-sqlalchemy
+  
+**Шаг 3. Запустить приложение** 
+  python app.py
+  
 **Шаг 4. Открыть в браузере**
+  text
+  http://127.0.0.1:5000
 
-text
-http://127.0.0.1:5000
+
