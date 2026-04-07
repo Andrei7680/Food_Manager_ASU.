@@ -47,12 +47,15 @@
   cd Food_Manager_ASU```
 
 **Шаг 2. Установить зависимости** 
+
   pip install flask flask-sqlalchemy
   
 **Шаг 3. Запустить приложение** 
+
   python app.py
   
 **Шаг 4. Открыть в браузере**
+
   text
   http://127.0.0.1:5000
 
