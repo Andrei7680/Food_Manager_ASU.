@@ -43,7 +43,7 @@
 
 **Шаг 1. Скачать проект** 
 
-  https://github.com/Andrei7680/Food_Manager_ASU.zip
+  https://github.com/Andrei7680/Food_Manager_ASU.git
 
 **Шаг 2. Установить зависимости** 
 
